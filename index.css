@@ -1,0 +1,76 @@
+@font-face {
+    font-family: FiraSans;
+    src: url(FiraSans-Black.ttf);
+}
+
+body{
+    margin: 0;
+    background-color: #1c1c1f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    background-color: #1c1c1f;
+    color: #d4d8e0;
+    font-weight: 500;
+    width: 40%;
+    height:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+td{
+    background-color: #31313b ;
+    border-radius: 4px;
+    padding: 7px;
+    margin: 10px;
+}
+
+hr{
+    width: 50%;
+    background-color: #31313b;
+    color: #31313b;
+}
+
+input{
+    width: 97%;
+    background-color: #d4d8e0;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1c1c1f;
+}
+
+form,select,option{
+    background-color: #d4d8e0;
+    color: #1c1c1f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 100%;
+}
+
+button{
+    background-color: #d4d8e0;
+    color: #1c1c1f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 10%;
+}
+
+button:hover{
+    width: 13%;
+    border-color: #fafafa;
+}
+
+p{
+    color: #d4d8e0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+a{
+    color:gray;
+}
+a:hover{
+    color: whitesmoke;
+}
+
